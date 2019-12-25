@@ -1,6 +1,0 @@
-aaa
-bbb
-ccc
-ddd
-dev1
-dev2
